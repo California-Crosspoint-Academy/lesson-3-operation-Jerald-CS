@@ -1,3 +1,6 @@
+//Author Jerald Huang 
+//Date 2025-08-25
+
 public class StringOperation {
     public static void main(String[] args) {
         String apple = "I love apples";     // makes a string
@@ -21,4 +24,5 @@ public class StringOperation {
         System.out.println("Name\t\tAddress"); //prints name and address with 2 tabs worth of space betweenn
         System.out.println("\"I love air!\""); //prints ""I love air!""
     } 
+
 }
